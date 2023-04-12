@@ -1,9 +1,9 @@
-### Olá, sou Íris!
+<h3 align="left"> Olá, sou Íris! <img src="https://media1.giphy.com/media/VCmLVsrZCoTjhpSKPU/giphy.gif" width="60"> </h3>
 
 
 <h4>
   <p>Paraibana, adoro ler e participar de comunidades na área de tecnologia me move!
-  <p>Graduanda em Ciência da computação pela Universidade Federal de Campina Grande<p>
+  <p>Graduanda em Ciência da computação pela UFCG<p>
 </h4>
 
 
