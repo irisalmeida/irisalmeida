@@ -3,7 +3,7 @@
 
 <h4>
   <p>Paraibana, adoro ler e participar de comunidades na área de tecnologia me move!
-  <p>Graduanda em Ciência da computação pela UFCG<p>
+  <p>Sou graduanda em Ciência da computação pela UFCG<p>
 </h4>
 
 
