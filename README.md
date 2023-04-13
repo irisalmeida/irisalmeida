@@ -7,11 +7,6 @@
 </h4>
 
 
-
-
-
-
-
  <div>
  <p align="left">
    <a href="https://github.com/irisalmeida">
@@ -20,8 +15,7 @@
 <div>
 
   
- <h2  align="center"></h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/%C3%ADrisalmeida"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
+  <div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/%C3%ADrisalmeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
