@@ -13,3 +13,16 @@
   <a target="_blank"href="https://www.linkedin.com/in/%C3%ADrisalmeida"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+
+
+ <div>
+ <p align="left">
+   <a href="https://github.com/irisalmeida">
+   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=letpires&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letpires&layout=compact&langs_count=16&theme=radical"/>
+<div>
+
+  
+ 
+  ![Snake animation](https://github.com/irisalmeida/irisalmeida/blob/output/github-contribution-grid-snake.svg)
+ 
