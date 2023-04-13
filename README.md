@@ -24,5 +24,4 @@
 
   
  
-  ![Snake animation](https://github.com/irisalmeida/irisalmeida/blob/output/github-contribution-grid-snake.svg)
- 
+
